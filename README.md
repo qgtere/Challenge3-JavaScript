@@ -30,7 +30,7 @@ In this challenge we modify a starter code and create a random password generato
 
 ## Link to the application
 
-* [Visit the application here!](https://qgtere.github.io/)
+* [Visit the application here!](https://qgtere.github.io/Challenge3-JavaScript/)
 
 ## Mock-up
 
